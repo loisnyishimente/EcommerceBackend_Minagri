@@ -110,4 +110,4 @@ https://github.com/loisnyishimente/EcommerceBackend_Minagri.git
 
 Conclusion
 
-This README provides a comprehensive overview of the e-commerce order processing system's design and functionality. By adhering to object-oriented principles, the system is structured for maintainability and scalability, making it easy to extend with additional product types and functionalities.
+This README provides a comprehensive overview of the e-commerce order processing system's design and functionality. By following the object-oriented principles, the system is structured for maintainability and scalability, making it easy to extend with additional product types and functionalities.
