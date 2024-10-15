@@ -43,7 +43,7 @@ json
             "productName": "Gift Card",
             "price": 25000,
             "quantity": 1,
-            "recipientEmail": "recipient@example.com"
+            "recipientEmail": "recipient@gmail.com"
         }
     ]
 }
